@@ -1,13 +1,13 @@
 # BYOG
-Name: To Be Determined
+Battle Watch
 ===
 Type of Game?
->2d fighting game (hunger games). Navigate through. Like pokemon on the ds. 
+> 2d fighting game (hunger games). Navigate through. Like pokemon on the ds. 
 
 WHAT…...is the object of your game?
 -----
->Win the hunger games. 
->Defeat all opponents 
+> Win the hunger games. 
+> Defeat all opponents 
 
 WHAT…...is the backstory for your game (i.e., WHAT…...is the context)?
 -----
@@ -20,15 +20,26 @@ Essential Assets
 ---
 > All Assets wil be made out of sprte sheets. Multiple verisons will be made for both the movement sequences and the action sequences. These assets will include:
 
-
 * Player
-
 
 * Enemy
 
-
 * Tile Map/Background
 
-
 * Weapons
+
+Essential Functions
+---
+> Index
+>> Main link to the game that will open all the scripts in JS
+
+> Preload Function
+>> Needed to load assets into game
+
+> createCharacter function
+>> This function creates the various charcters in the function and is linked to various functions that allow for character movement and also give the players the apility to pick up weapons
+
+> createEncounter function
+>> This function switches to a side by side veiw and allows charcters t engage in battle
+
 

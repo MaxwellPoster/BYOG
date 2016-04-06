@@ -2,7 +2,7 @@
 Battle Watch
 ===
 Type of Game?
-> 2d fighting game (hunger games). Navigate through. Like pokemon on the ds. 
+> 2d fighting game, like the hunger games. Navigate through. Like pokemon on the ds. 
 
 WHAT…...is the object of your game?
 -----
@@ -18,7 +18,7 @@ group.
 
 Essential Assets
 ---
-> All Assets wil be made out of sprte sheets. Multiple verisons will be made for both the movement sequences and the action sequences. These assets will include:
+> All Assets wil be made out of sprite sheets. Multiple verisons will be made for both the movement sequences and the action sequences. These assets will include:
 
 * Player
 

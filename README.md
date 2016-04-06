@@ -30,16 +30,19 @@ Essential Assets
 
 Essential Functions
 ---
-> Index
+> Index:
 >> Main link to the game that will open all the scripts in JS
 
-> Preload Function
+> Preload Function:
+
 >> Needed to load assets into game
 
-> createCharacter function
+> createCharacter function:
+
 >> This function creates the various charcters in the function and is linked to various functions that allow for character movement and also give the players the apility to pick up weapons
 
-> createEncounter function
+> createEncounter function:
+
 >> This function switches to a side by side veiw and allows charcters t engage in battle
 
 
